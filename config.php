@@ -1,8 +1,8 @@
 <?php
 
-return[
-    'database' =>[
-        'name' => 'to_do',
+return [
+    'database' => [
+        'name' => 'todoapp',
         'username' => 'root',
         'password' => '',
         'connection' => 'mysql:host=127.0.0.1',
@@ -10,4 +10,4 @@ return[
             PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION
         ]
     ]
-    ];
+];

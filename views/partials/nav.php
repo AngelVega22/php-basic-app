@@ -1,16 +1,16 @@
-<section class="bg-dark ">
-        <div class="container py-3">
+<section class="bg-warning  text-dark bg-opacity-50 shadow-sm ">
+    <div class="container py-3">
         <ul class="nav nav-pills">
 
             <li class="nav-item">
-                <a class="nav-link" href="/">Home</a>
+                <a class="nav-link text-dark fw-bolder" href="/">TO DO APP</a>
+            </li>
+            <!-- <li class="nav-item">
+                <a class="nav-link text-dark fw-bolder" href="/about">About</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="/about">About</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="/contact">Contact</a>
-            </li>
+                <a class="nav-link text-dark fw-bolder" href="/contact">Contact</a>
+            </li> -->
         </ul>
-        </div>
-    </section>
+    </div>
+</section>
